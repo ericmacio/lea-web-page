@@ -1,0 +1,198 @@
+
+== HEADER ==
+
+Léa Macioszczyk · Freelance CRO
+
+Navigation : À propos | Méthode | Offres | Contact | FAQ
+
+Diagnostic gratuit
+
+
+== HERO ==
+
+CRO · E-commerce & site vitrine
+
+Votre site a du trafic mais
+pas assez de résultats ?
+
+J'aide les e-commerces et les sites vitrines à transformer leur trafic en résultats mesurables (ventes ou prises de contact) grâce à une approche CRO (Conversion Rate Optimization) simple, concrète et orientée résultats. Basée à Grenoble, j'interviens partout en France.
+
+Diagnostic gratuit
+Voir les offres
+
+Livré par email, sans appel obligatoire.
+
+
+== LE PROBLÈME ==
+
+— Le problème
+
+La plupart des sites web perdent des conversions sans le savoir.
+
+En moyenne, 97% des visiteurs d'un site repartent sans convertir : ni achat, ni demande de devis, ni prise de contact (source : Baymard Institute). Le problème n'est presque jamais le produit/service ni le prix.
+
+Ce sont des frictions invisibles : une page qui manque de réassurance, un parcours utilisateur trop complexe, un décalage entre l'offre et le message, etc.
+
+Le problème, c'est qu'on ne les voit pas à l'œil nu. Ils se détectent dans les données.
+
+Carte 1 : Une page qui manque de réassurance
+Les bons éléments sont parfois là… mais pas au bon endroit, ni au bon moment.
+
+Carte 2 : Un parcours utilisateur trop complexe
+Chaque étape inutile augmente le risque de perdre un visiteur qualifié. L'abandon se joue souvent à quelques clics.
+
+Carte 3 : Un décalage entre l'offre et le message
+Votre produit/service a de la valeur, mais votre discours ne reflète pas ce que vos visiteurs cherchent vraiment. Sans connexion immédiate, ils quittent la page.
+
+
+== À PROPOS ==
+
+— À propos
+
+Consultante CRO : optimisation de la conversion & performance digitale
+
+Basée à Grenoble et intervenant dans toute la France, je suis spécialisée en optimisation de la conversion (CRO). J'aide les entreprises à mieux exploiter leur trafic existant en améliorant l'expérience utilisateur et la performance de leurs sites web (e-commerce ou site vitrine).
+
+Issue du marketing digital, j'ai construit une approche basée sur la donnée et l'observation des usages : analyse des performances, détection des frictions dans les parcours utilisateurs, optimisation continue des pages stratégiques et des mécanismes d'engagement.
+
+Je travaille dans une logique d'amélioration continue : tester, mesurer, comprendre, optimiser.
+
+
+== MÉTHODE ==
+
+— méthode
+
+Optimisation du taux de conversion : analyse, hypothèses, tests, résultats.
+
+Duo CRO + Développeur senior
+
+J'analyse vos données et les croise avec une analyse UX (expérience utilisateur) pour identifier précisément ce qui freine vos visiteurs.
+
+Pour les optimisations nécessitant du développement technique, je collabore avec un développeur senior ayant plus de 20 ans d'expérience en architecture logicielle, développement web et formé aux dernières avancées de l'IA appliquée au code.
+
+Étape 1 : Analyse des données
+Exploration de Google Analytics 4, heatmaps et session replays pour cartographier le comportement réel de vos visiteurs et localiser les points de fuite.
+
+Étape 2 : Formulation d'hypothèses
+Chaque friction identifiée devient une hypothèse d'amélioration concrète, priorisée selon la méthode PXL pour maximiser l'impact.
+
+Étape 3 : Tests A/B & mesure
+Mise en place et suivi des tests via GoStellar, avec analyse statistique rigoureuse. Aucun changement n'est déclaré gagnant sans validation chiffrée.
+
+Étape 4 : Apprentissage & implémentation
+Les observations de chaque test alimentent le suivant. Ce qui fonctionne est déployé. Ce qui échoue nous apprend sur vos utilisateurs.
+
+
+== OFFRES ==
+
+— offres
+
+Nos offres d'optimisation CRO selon votre situation.
+
+Trois formules pensées pour s'adapter à votre contexte, que vous ayez besoin d'un livrable opérationnel ou d'un partenaire sur la durée.
+
+--- Offre 1 : Audit CRO ---
+One-shot | 2 semaines | 499€
+
+Vous voulez comprendre pourquoi votre site ne convertit pas ? En deux semaines, je vous livre une analyse complète : frictions identifiées, recommandations priorisées et hypothèses prêtes à tester.
+
+Pour qui : vous avez une équipe dev en interne et/ou avez besoin d'un livrable directement opérationnel, pas d'une liste de bonnes pratiques.
+
+Inclus :
+- Analyse GA4, heatmaps, session replays
+- Recommandations UX et copywriting
+- Hypothèses de tests actionnables
+
+Me contacter
+
+--- Offre 2 : Accompagnement CRO ---
+Accompagnement | Minimum 3 mois | 799€ /mois
+
+Vous manquez de temps ou d'expertise pour structurer une vraie démarche d'optimisation continue ? Je construis et pilote votre stratégie CRO pour transformer vos données en décisions.
+
+Pour qui : vous avez une équipe dev en interne capable d'implémenter les changements, mais vous avez besoin d'une expertise CRO complète.
+
+Inclus :
+- Audit CRO inclus
+- Réalisation de tests A/B no-code
+- Variations à implémenter illustrées
+- 1 point mensuel + rapport de résultats
+
+Me contacter
+
+--- Offre 3 : Exécution technique ---
+Duo CRO + Dev senior | Offre complémentaire | sur devis
+
+Vous souhaitez réaliser des tests techniques et structurels (nécessitant du code) et/ou déployer les optimisations validées ? Je collabore avec un développeur senior pour assurer leur mise en œuvre.
+
+Pour qui : vous n'avez pas d'équipe dev en interne et/ou souhaitez déléguer entièrement votre optimisation, de la stratégie à l'implémentation.
+
+Inclus :
+- Tests techniques & structurels
+- Implémentation des tests gagnants
+
+Me contacter
+
+
+== BANNIÈRE CTA ==
+
+Vous ne savez pas par où commencer ?
+Je jette un œil à votre site gratuitement.
+Diagnostic gratuit
+
+
+== CONTACT ==
+
+— contact
+
+Si vous pensez que votre site peut générer plus de résultats.
+Parlons-en.
+
+Réponse sous 48h. C'est moi (Léa) qui vous réponds, sans intermédiaire.
+Honnêteté avant tout. Si le CRO n'est pas la bonne solution pour vous maintenant, je vous le dis.
+Diagnostic offert. Si vous partagez votre URL, je jette un œil à votre site gratuitement.
+
+Formulaire de contact :
+- Prénom / Nom*
+- Email*
+- URL de votre site*
+- Vous êtes intéressé par* (Sélectionner : Audit opérationnel / Accompagnement CRO / Exécution technique / Diagnostic gratuit)
+- Votre situation* (Quelques mots sur votre site, votre trafic, ce qui bloque....)
+- Envoyer
+
+
+== FAQ ==
+
+— Questions fréquentes
+
+Questions fréquentes sur le CRO et l'optimisation de conversion
+
+Q : Concrètement, c'est quoi le CRO ?
+R : Le CRO (Conversion Rate Optimization) consiste à améliorer le pourcentage de visiteurs qui réalisent une action clé sur votre site : un achat, une demande de devis, une prise de contact, une inscription. Plutôt que de dépenser plus en publicité pour attirer du trafic, le CRO maximise la valeur du trafic que vous avez déjà en identifiant ce qui freine vos visiteurs et en optimisant leur expérience. C'est l'un des leviers les plus rentables du marketing digital.
+
+Q : Est-ce que le CRO fonctionne pour les petits sites avec peu de trafic ?
+R : Oui, mais l'approche diffère. Avec un trafic modeste, les tests A/B classiques prennent plus de temps à produire des résultats statistiquement fiables. Dans ce cas, je me concentre sur l'audit et l'analyse qualitative (heatmaps, replays, tests utilisateurs) pour identifier les frictions les plus évidentes.
+
+Q : Combien de temps avant de voir des résultats concrets ?
+R : L'audit livré en 2 semaines vous donne des actions immédiates. Pour l'accompagnement continu, les premiers résultats mesurables arrivent généralement entre 4 et 8 semaines après la mise en place des premiers tests. C'est pourquoi l'engagement minimum est de 3 mois : il faut le temps de tester, mesurer, optimiser et confirmer les gains.
+
+Q : Quelle différence entre le CRO, le SEO et le redesign ?
+R : Le SEO vous amène du trafic. Le redesign change l'apparence de votre site. Le CRO optimise ce qui se passe entre l'arrivée du visiteur et la conversion (achat, demande de devis, prise de contact). Ce sont des leviers complémentaires, mais si vous avez déjà du trafic et que vos résultats ne suivent pas, le CRO est le levier le plus rentable à court terme car il agit sur le chiffre d'affaires sans augmenter vos dépenses publicitaires.
+
+Q : Que se passe-t-il si l'audit ne révèle rien de significatif ?
+R : C'est extrêmement rare, il y a toujours des frictions à corriger. Mais si votre site est déjà très bien optimisé, je vous le dis honnêtement et je vous oriente vers d'autres leviers plus pertinents (acquisition, SEO, offre produit). Mon objectif n'est pas de vendre une prestation, mais de vous apporter de la valeur.
+
+
+== FOOTER ==
+
+Léa Macioszczyk · Freelance CRO
+Grenoble, France
+Mis à jour : avril 2026
+© 2026 — Tous droits réservés
+
+
+== BANNIÈRE COOKIES ==
+
+Ce site utilise des cookies de mesure d'audience (Google Analytics) pour améliorer votre expérience. Aucun cookie publicitaire n'est utilisé.
+
+Accepter | Refuser

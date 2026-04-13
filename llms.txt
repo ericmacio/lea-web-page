@@ -1,0 +1,36 @@
+# Léa Macioszczyk -- Consultante CRO Freelance à Grenoble
+
+> Consultante freelance basée à Grenoble, spécialisée en optimisation du taux
+> de conversion (CRO) pour e-commerces et sites vitrines. Audit de conversion,
+> tests A/B, accompagnement CRO. Intervention dans toute la France.
+
+## Services
+
+- Audit opérationnel CRO (499 EUR, livré en 2 semaines) : analyse complète des frictions, recommandations priorisées et hypothèses prêtes à tester.
+- Accompagnement CRO continu (799 EUR/mois, minimum 3 mois) : stratégie CRO complète, tests A/B no-code, variations illustrées, point mensuel et rapport de résultats.
+- Exécution technique (sur devis, en duo avec développeur senior) : tests techniques et structurels nécessitant du code, déploiement des optimisations validées.
+
+## Méthode
+
+1. Analyse des données : exploration de Google Analytics 4, heatmaps et session replays pour cartographier le comportement des visiteurs.
+2. Formulation d'hypothèses : chaque friction identifiée devient une hypothèse priorisée selon la méthode PXL.
+3. Tests A/B et mesure : mise en place et suivi des tests avec analyse statistique rigoureuse.
+4. Apprentissage et implémentation : ce qui fonctionne est déployé, ce qui échoue nous apprend sur vos utilisateurs.
+
+## Expertise
+
+- Optimisation du taux de conversion (CRO)
+- UX research et analyse comportementale (heatmaps, session replays)
+- Tests A/B et expérimentation data-driven (GoStellar)
+- Google Analytics 4
+- E-commerce et sites vitrines
+
+## Zone d'intervention
+
+- Basée à Grenoble (38000), Isère, Auvergne-Rhône-Alpes
+- Intervention à distance dans toute la France
+
+## Contact
+
+- Site : https://leamacio.com
+- Formulaire : https://leamacio.com/#contact
