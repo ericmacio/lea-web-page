@@ -59,4 +59,4 @@ Les éléments principaux (titres) utilisent la police "Instrument Serif". Les a
 La photo de la personne proposant cette offre est accessible dans le fichier lea.png
 
 ## Status
-début du projet
+la page html est maintenant créée et fonctionnelle. Les documents de design sont disponibles dans le répertoire Analyse. Les actions visent maintenant à améliorer le design et à rajouter des fonctionnalités.

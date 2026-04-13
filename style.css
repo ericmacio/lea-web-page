@@ -425,7 +425,7 @@ section[id] {
   font-family: var(--font-title);
   font-size: 72px;
   font-weight: 400;
-  line-height: 1.15;
+  line-height: 1.02;
   color: var(--blanc);
   max-width: 850px;
   margin: 0 auto 28px;
@@ -462,22 +462,27 @@ section[id] {
   font-weight: 400;
   line-height: 1.45;
   color: var(--gris-clair);
-  max-width: 700px;
+  max-width: 860px;
   margin: 0 auto 40px;
+}
+
+.hero__buttons-wrap {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 .hero__buttons {
   display: flex;
   align-items: center;
-  justify-content: center;
   gap: 16px;
-  margin-bottom: 16px;
+  margin-bottom: 10px;
 }
 
 .hero__mention {
   font-family: var(--font-body);
   font-size: 13px;
-  color: var(--gris-fonce);
+  color: var(--gris-clair);
 }
 
 .hero::after {
@@ -617,7 +622,7 @@ section[id] {
   display: grid;
   grid-template-columns: auto 1fr;
   gap: 60px;
-  align-items: start;
+  align-items: center;
 }
 
 .a-propos__photo {
@@ -884,7 +889,7 @@ section[id] {
   font-family: var(--font-body);
   font-size: 12px;
   line-height: 1.45;
-  color: var(--gris-fonce);
+  color: var(--cyan);
   margin-bottom: 14px;
 }
 
@@ -918,7 +923,7 @@ section[id] {
   font-size: 14px;
   font-weight: 800;
   color: var(--cyan);
-  border: 2.5px solid var(--cyan);
+  border: 1.5px solid var(--cyan);
   border-radius: 50%;
   flex-shrink: 0;
   margin-top: 1px;
@@ -1743,7 +1748,7 @@ section[id] {
 .footer__logo {
   font-family: var(--font-title);
   font-size: 16px;
-  color: var(--blanc);
+  color: var(--gris-clair);
 }
 
 .footer__location {
@@ -1755,14 +1760,13 @@ section[id] {
 .footer__updated {
   font-family: var(--font-body);
   font-size: 12px;
-  color: var(--gris-fonce);
-  opacity: 0.7;
+  color: var(--gris-clair);
 }
 
 .footer__copy {
   font-family: var(--font-body);
   font-size: 13px;
-  color: var(--gris-fonce);
+  color: var(--gris-clair);
 }
 
 /* FAQ & Footer responsive overrides */
