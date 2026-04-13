@@ -549,24 +549,36 @@ section[id] {
 .probleme__cards {
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 12px;
 }
 
 .probleme__card {
-  background-color: #eef2f6;
-  border-radius: 12px;
-  padding: 16px 20px;
+  background-color: #ffffff;
+  border: 1px solid #e0e4e8;
+  border-radius: 14px;
+  padding: 22px 24px;
   display: flex;
   align-items: flex-start;
   gap: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
 
-.probleme__card-icon {
-  width: 24px;
-  height: 24px;
-  color: var(--noir);
+.probleme__card-icon-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  min-width: 36px;
+  background-color: #45cdff;
+  border-radius: 50%;
   flex-shrink: 0;
   margin-top: 2px;
+}
+
+.probleme__card-icon-wrap svg {
+  width: 18px;
+  height: 18px;
 }
 
 .probleme__card-text {
@@ -575,7 +587,7 @@ section[id] {
 
 .probleme__card-title {
   font-family: var(--font-body);
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 600;
   color: var(--noir);
   margin-bottom: 6px;
@@ -583,9 +595,9 @@ section[id] {
 
 .probleme__card-desc {
   font-family: var(--font-body);
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 400;
-  line-height: 1.5;
+  line-height: 1.55;
   color: var(--gris-fonce);
 }
 
@@ -1070,13 +1082,19 @@ section[id] {
   }
 
   .probleme__card {
-    padding: 12px 16px;
-    gap: 12px;
+    padding: 18px 18px;
+    gap: 14px;
   }
 
-  .probleme__card-desc {
-    font-size: 14px;
-    line-height: 1.4;
+  .probleme__card-icon-wrap {
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+  }
+
+  .probleme__card-icon-wrap svg {
+    width: 16px;
+    height: 16px;
   }
 
   /* --- À propos --- */
