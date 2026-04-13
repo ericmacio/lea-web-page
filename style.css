@@ -694,7 +694,7 @@ section[id] {
   align-items: center;
   gap: 8px;
   background-color: var(--noir);
-  color: #00d4ff;
+  color: #ffffff;
   font-family: var(--font-body);
   font-size: 12px;
   font-weight: 600;
@@ -958,7 +958,7 @@ section[id] {
   letter-spacing: 0.5px;
   text-transform: uppercase;
   color: var(--cyan);
-  background-color: #eef2f6;
+  background-color: #ffffff;
   border: 2px solid rgba(0, 212, 255, 0.4);
   padding: 4px 12px;
   border-radius: 12px;
